@@ -10,8 +10,8 @@ Docker is a containerization platform that allows you to run applications or ent
 ## STEP 1: Install Docker
 First we have to check if WSL 2 is enabled, WSL 2 (Windows Subsystem for Linux 2) is a feature in Windows 10 and Windows 11 that allows you to run a full Linux environment directly inside Windows without using a virtual machine. We use Power Shell (or any other terminal is good):
 1.  Check if WSL 2 is enabled by running: `wsl --list --verbose`
-If note installed, run: `wsl --install`
-Then restart your computer.
+ If note installed, run: `wsl --install`
+ Then restart your computer.
 2. Download and Install Docker Desktop from https://www.Docker.com
    ![Alt Text](images/docker_windows_download.png)
 
