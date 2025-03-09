@@ -82,3 +82,7 @@ Containers are temporary by nature, but Docker allows you to manage them efficie
 
 
 
+---
+
+## **Conclusion**
+Now, Docker is installed, and AlmaLinux 9 is running inside a container!
